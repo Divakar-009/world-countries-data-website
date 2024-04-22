@@ -7,12 +7,12 @@ Search for specific countries.
 View details about each country.
 Responsive design for desktop and mobile devices.
 
-Data Source
+Data Source:
 The data used in this project is from the REST Countries API.
 
-Credits
+Credits:
 This project was created by Divakar Sharma.
 
-License
+License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
