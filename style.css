@@ -1,10 +1,14 @@
 html {
-    height: 100%;
-    width: 100%;
-    /* background-color:skyblue; */
-    background-image:url(worldImage.jpg)
-  }
+  height: 100%;
+  width: 100%;
+  /* background-color: skyblue; */
+  background-image: url('worldImage.jpg');
+  background-size: cover;
+}
 body {
+  margin: 0;
+    padding: 0;
+    height: 100%;
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 50px;
