@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+    width: 100%;
+    /* background-color:skyblue; */
+    background-image:url(worldImage.jpg)
+  }
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+h1 {
+color: antiquewhite;
+}
+label{
+  color: antiquewhite;
+}
+
+label {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+select {
+  padding: 10px;
+  width: 350px;
+  font-size: 20px;
+}
+
+button {
+  font-size:1em;
+  background-color: #3d64e6 ;
+  color: #ffffff;
+  padding: 0.8cqmax 0;
+  border:none;
+  border: radius 15px;
+
+}
+#flagy {
+  max-width: 340px; 
+  margin-top: 22px; 
+  border: 2px solid antiquewhite; 
+  padding: 10px;
+}
+div{
+  color: antiquewhite;
+}
